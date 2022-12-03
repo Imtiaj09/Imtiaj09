@@ -36,7 +36,6 @@
 
 <br/>
 <br/>
-<br/>
 
 
 ### Connect with me:
@@ -50,9 +49,7 @@
 <a href="https://www.instagram.com/anik.0x">
   <img align="left" alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<hr/>
 
-<br />
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
